@@ -1,6 +1,1 @@
-var menubar = require('menubar')
-
-menubar({
-  width: 800,
-  height: 600
-})
+require('menubar')({ width: 800, height: 650 })
