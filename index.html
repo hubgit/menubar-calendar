@@ -1,0 +1,15 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Calendar</title>
+<link rel="stylesheet" href="node_modules/fullcalendar/dist/fullcalendar.css">
+<link rel="stylesheet" href="app.css">
+<script>window.$ = window.jQuery = require('./node_modules/jquery/dist/jquery.js');</script>
+<script src="node_modules/moment/moment.js"></script>
+<script src="node_modules/fullcalendar/dist/fullcalendar.js"></script>
+<body>
+<div id="calendar"></div>
+<script>
+$(function() {
+  $('#calendar').fullCalendar({})
+});
+</script>

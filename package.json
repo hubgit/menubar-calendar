@@ -1,0 +1,16 @@
+{
+  "name": "menubar-calendar",
+  "version": "0.0.1",
+  "description": "A menu bar calendar",
+  "main": "app.js",
+  "dependencies": {
+    "fullcalendar": "^2.7.2",
+    "menubar": "^4.1.1"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Alf Eaton <eaton.alf@gmail.com>",
+  "license": "ISC",
+  "repository": "https://github.com/hubgit/menubar-calendar.git"
+}
