@@ -6,3 +6,7 @@ A menu bar calendar.
 
 * `npm install`
 * `npm start`
+
+## Screenshot
+
+![screenshot](screenshot.png)
